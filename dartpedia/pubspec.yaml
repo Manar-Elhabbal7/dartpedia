@@ -1,0 +1,9 @@
+name: _
+publish_to: none
+
+environment:
+  sdk: ^3.12.0 # IMPORTANT: Adjust this to match your Dart SDK version or a compatible range
+workspace:
+  - cli
+  - cli/command_runner
+  - wikipedia

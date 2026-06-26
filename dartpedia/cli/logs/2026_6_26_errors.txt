@@ -1,0 +1,2 @@
+[2026-06-26 16:22:17.335949 - errors] WARNING: ArgumentException: Please include a search term 
+[2026-06-26 16:32:30.646026 - errors] WARNING: ArgumentException: Please include a search term 
